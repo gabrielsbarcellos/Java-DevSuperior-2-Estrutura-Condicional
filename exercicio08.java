@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class uri1051 {
+public class Exercicio08 {
 
 	public static void main(String[] args) {
 
